@@ -1,0 +1,6 @@
+train: /home/krishnapriya/dataset1/images/train
+val: /home/krishnapriya/dataset1/images/validate
+
+nc: 2  # Number of classes (e.g., 2 for cats and dogs)
+names: ['cat', 'dog']  # Class names
+
